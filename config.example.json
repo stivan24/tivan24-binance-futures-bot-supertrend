@@ -1,0 +1,14 @@
+{
+  "binance_api_key": "YOUR_API_KEY",
+  "binance_api_secret": "YOUR_API_SECRET",
+  "testnet": true,
+  "symbol": "BTCUSDT",
+  "leverage": 10,
+  "timeframe": "5m",
+  "risk_per_trade_percent": 1.0,
+  "supertrend": {
+    "period": 10,
+    "multiplier": 3.0
+  },
+  "polling_interval_seconds": 30
+}
